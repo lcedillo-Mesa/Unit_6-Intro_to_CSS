@@ -10,7 +10,7 @@ HTML task: build out basic html mock up
 
 
 
-Code you will need to link html to css:
+Code you will need to link html to css, add this code inside your head tag! 
 
 <link rel="stylesheet" href="/styles.css">
 
