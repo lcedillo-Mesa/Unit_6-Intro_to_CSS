@@ -1,6 +1,6 @@
 # Unit_6-Intro_to_CSS
 
-
+## Do now task: 
 HTML task: build out basic html mock up
 - make sure to use all semantic tags cover last trimester
 - make sure nesting is correct
@@ -9,11 +9,12 @@ HTML task: build out basic html mock up
 
 
 
+## In class code along
+### Code you will need to link html to css, add this code inside your head tag! 
 
-Code you will need to link html to css, add this code inside your head tag! 
-
+```
 <link rel="stylesheet" href="/styles.css">
-
+```
 
 
 
